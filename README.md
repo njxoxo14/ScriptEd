@@ -1,4 +1,4 @@
-ScriptEd
+ScriptEdFunTunes
 ========
 
-First ScriptEd  Project on GitHub
+First ScriptEd Project on GitHub
