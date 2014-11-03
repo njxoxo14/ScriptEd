@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<! in CSS can do padding-top and padding-left, etc.>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ScriptEd</title>
+</head>
+<body>
+  <h1>October 29, 2014</h1>
+  <blockquote> The day when many were born and many died.</blockquote>
+  <p id = "Beginning"> Welcome to the "Dating" Site </p>
+  <p id= "End"> Thanks for coming!</p>
+  <img src = "http://1.media.dorkly.cvcdn.com/13/68/090721ae99573e9d00cbf7006d77623c.gif" width="300">
+  <img src = "http://www.wallpapersandimages.com/wp-content/uploads/2014/10/Halloween-2014-5.jpg" width ="300">
+  <p id = "Middle"> Happy Halloween</p>
+</body>
+</html>
