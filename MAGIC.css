@@ -1,0 +1,33 @@
+body {
+  background-color:black;
+  
+}
+h1{
+  color: white;
+  text-align:center;
+  padding-top:1em;
+  font-family:"Nyala","Arial","Courier New";
+}
+blockquote{
+  color:#6B0A0A;
+  font-style:italic;
+  background-color:#BA7E16;
+  padding:1em;
+  border-radius:1em;
+  
+}
+p{
+  color:black;
+  font-family:"Nyala";
+  background-color:#BA7E16;
+  padding:1em;
+  border-radius:1em;
+}
+p#Beginning{
+  font-size:large;
+  text-align:left;
+}
+p#End{
+  font-size:x-large;
+  text-align:right;
+}
